@@ -90,7 +90,6 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
     color: $brand-color;
-    text-decoration: none;
 
     &:visited {
         color: darken($brand-color, 15%);
@@ -186,19 +185,257 @@ pre {
 
 
 
-/**
- * Icons
- */
-.icon {
+p {
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
 
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
+body,td,p,div {
+    color: #6F686A;
+}
 
-        path {
-            fill: $grey-color;
-        }
-    }
+body {
+    color: blue;
+    margin-top: 0;
+    color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+}
+
+div.content {
+    vertical-align: top;
+    text-align: left;
+    width: 770px;
+    padding: 0 10px 10px 10px;
+    position: relative;
+}
+
+.banner {
+    position: relative;
+    margin-top: 0;
+    height: 50px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.page.gallery a {
+    text-decoration: none;
+}
+
+.banner img {
+    position: absolute;
+    top: 0;
+}
+
+div.page-middle {
+    width: 0;
+    position: relative;
+    left: 50%;
+}
+
+div.centre-panel {
+    padding: 0 10px 0 10px;
+    width: 790px;
+    position: relative;
+    right: 385px;
+    background-image: url('/images/curtains.png');
+    background-repeat: repeat-y;
+}
+
+div.bottom-panel {
+    left: -10px;
+    position: relative;
+    width: 810px;
+    height: 10px;
+    background-image: url('/images/fade_bottom.png');
+    background-repeat: repeat-x;
+}
+
+div.bottom-left-panel,div.bottom-right-panel {
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 10px;
+}
+
+div.bottom-left-panel {
+    background-image: url('/images/left_corner.png');
+    left: 0;
+}
+
+div.bottom-right-panel {
+    background-image: url('/images/right_corner.png');
+    left: 800px;
+}
+
+td.side {
+    width: 10px;
+    background-repeat: repeat-y;
+    background-position: top;
+}
+
+.centre-align {
+    text-align: center;
+}
+
+.caption {
+    font-size: 13pt;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-style: italic;
+    color: #A99FC4;
+}
+
+ul.menu {
+    text-align: right;
+}
+
+ul.menu li {
+    display: inline;
+    list-style-type: none;
+    margin-left: 10px;
+}
+
+ul.menu li a {
+    color: #DBCFFF;
+    border: 1px solid #DBCFFF;
+    background-color: #4E4A4B;
+    text-decoration: none;
+    font-size: 10pt;
+    padding: 1px 3px 1px 3px;
+}
+
+ul.menu li a:link:hover,ul.menu li a:visited:hover {
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    background-color: #6F686A;
+}
+
+ul.outlets {
+    line-height: 200%;
+}
+
+a {
+    color: inherit;
+}
+
+:link:hover,:visited:hover {
+    text-decoration: underline;
+    color: #0000FF;
+}
+
+a {
+    color: #999999;
+}
+
+h1 {
+    font-size: 18pt;
+    margin: 40px 0 0 0;
+    color: #88819F;
+    padding: 3px 3px 3px 0;
+    width: auto;
+}
+
+h2 {
+    font-size: 12pt;
+    color: #88819F;
+    margin: .75em 0 .75em 0;
+}
+
+ul.events {
+    padding-left: 0;
+}
+
+li.vevent,.cv-row {
+    position: relative;
+    list-style: none;
+    margin-top: 0.5em;
+}
+
+.cv-row {
+    clear: left;
+}
+
+li.vevent div,li.cv-row div {
+    float: left;
+    margin-right: 1em;
+}
+
+li.vevent div.event-clear,.cv-row div.clear,div.clear {
+    clear: both;
+    position: relative;
+    float: none;
+    line-height: 0;
+}
+
+li.exhibition div.event-date,div.event-date {
+    width: 12em;
+}
+
+li.vevent div.summary {
+    left: 16em;
+    width: 27em;
+}
+
+li.cv-row, ul.gallery li {
+    list-style: none;
+}
+ul.gallery li {
+    width: 24em;
+    text-align: center;
+    padding-top: 2em;
+    float: left;
+    position: relative;
+
+    display: table; height: 21em; width: 24em; #position: relative; overflow: hidden;
+}
+ul.gallery li div {
+    #position: absolute; #top: 50%;display: table-cell; text-align: center; vertical-align: middle;
+}
+ul.gallery li div div {
+    width: 24em; #position: relative; #top: -50%
+}
+ul.gallery li p {
+    top: 100px;
+}
+
+li.experience div.summary,li.exhibition div.summary {
+    left: 16em;
+    width: 50em;
+}
+
+li.exhibition div.summary {
+    width: 27em;
+}
+
+li.vevent div.location {
+    right: 0em;
+    width: 23em;
+}
+
+address {
+    font-style: normal;
+}
+
+.hidden {
+    display: none;
+}
+
+.hresume img {
+    display: none;
+}
+
+ul.undecorated, ul.gallery {
+    padding-left: 0;
+    margin-top: 0;
+}
+
+ul.undecorated li {
+    list-style-type: none;
+    margin-top: 0.5em;
+}
+
+img {
+    border: 0;
 }
