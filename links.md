@@ -5,6 +5,8 @@ title: Links
 
 # Links
 
+<div markdown="1" style="width: 49%; float: left;">
+
 ## Other Potters
 
 Paul Smith—a sculptor from Whaley Bridge  
@@ -32,6 +34,9 @@ Keramisto (Holland)
 
 Craft and Design  
 [http://www.craftanddesign.net/](http://www.craftanddesign.net/)
+
+</div>
+<div markdown="1" style="width: 49%; float: left;">
 
 ## Profile Sites
 
@@ -67,3 +72,6 @@ Serena Hall Gallery, Southwold 20/21
 
 20–21 Visual Arts Centre, Scunthorpe  
 [http://www.northlincs.gov.uk/NorthLincs/Leisure/arts/20-21VisualArtsCentre/](http://www.northlincs.gov.uk/leisure/arts/20-21visualartscentre/)
+
+</div>
+<div class="clear">&nbsp;</div>

@@ -345,6 +345,7 @@ h2 {
 
 ul.events {
     padding-left: 0;
+    margin-left: 0;
 }
 
 li.vevent,.cv-row {
@@ -382,13 +383,14 @@ li.cv-row, ul.gallery li {
     list-style: none;
 }
 ul.gallery li {
-    width: 24em;
+    width: 22em;
     text-align: center;
     padding-top: 2em;
     float: left;
     position: relative;
 
-    display: table; height: 21em; width: 24em; #position: relative; overflow: hidden;
+    display: table; height: 21em;
+    #position: relative; overflow: hidden;
 }
 ul.gallery li div {
     #position: absolute; #top: 50%;display: table-cell; text-align: center; vertical-align: middle;

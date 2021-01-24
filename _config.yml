@@ -8,6 +8,7 @@ url: "http://www.suecrossfield.co.uk" # the base hostname & protocol for your si
 
 # Build settings
 markdown: kramdown
+github: [metadata]
 
 plugins:
   - jekyll-sitemap
