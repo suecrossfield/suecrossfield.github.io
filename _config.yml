@@ -4,7 +4,7 @@ email: sue@suecrossfield.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   Sue Crossfield is a ceramic artist who creates stoneware sculptures inspired by natural forms such as sea horses.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.suecrossfield.co.uk" # the base hostname & protocol for your site
+#url: "http://www.suecrossfield.co.uk" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
