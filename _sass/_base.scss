@@ -238,7 +238,7 @@ div.centre-panel {
     width: 790px;
     position: relative;
     right: 385px;
-    background-image: url('/images/curtains.png');
+    background-image: url($images-path + '/curtains.png');
     background-repeat: repeat-y;
 }
 
@@ -247,7 +247,7 @@ div.bottom-panel {
     position: relative;
     width: 810px;
     height: 10px;
-    background-image: url('/images/fade_bottom.png');
+    background-image: url($images-path + '/fade_bottom.png');
     background-repeat: repeat-x;
 }
 
@@ -258,12 +258,12 @@ div.bottom-left-panel,div.bottom-right-panel {
 }
 
 div.bottom-left-panel {
-    background-image: url('/images/left_corner.png');
+    background-image: url($images-path + '/left_corner.png');
     left: 0;
 }
 
 div.bottom-right-panel {
-    background-image: url('/images/right_corner.png');
+    background-image: url($images-path + '/right_corner.png');
     left: 800px;
 }
 
