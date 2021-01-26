@@ -36,4 +36,4 @@ I do not have any future events scheduled at the moment. Please see the <a href=
 
 ## Contact Sue Crossfield
 
-I am based in Ashbourne in Derbyshire. Contact me by email on <a href="mailto:sue@suecrossfield.co.uk" title="Click here to email" class="email" style="background-image: url(images/email.gif); background-repeat:no-repeat; background-position: 11.5em -0.2em; padding-right: 2em;">sue@suecrossfield.co.uk</a>.
+I am based in Ashbourne in Derbyshire. Contact me by email on <a href="mailto:sue@suecrossfield.co.uk" title="Click here to email" class="email" style="background-image: url({{ site.github.url }}/images/email.png); background-repeat:no-repeat; background-position: 11.5em -0.2em; padding-right: 2em;">sue@suecrossfield.co.uk</a>.
