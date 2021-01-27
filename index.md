@@ -21,7 +21,7 @@ I work from thin slabs of white or buff stoneware clay bodies, which are sometim
 
 The scale of my work varies from robust garden sculptures and planters in warm rustic colours and natural surfaces, to finer, smaller pieces for interior setting, often in a range of whites, purples, blues and turquoises.
 
-My work is fired in an electric n to between 1200℃ and 1280℃. The high-fired pieces are ideal for being displayed outdoors as well as inside.
+My work is fired in an electric n to between 1200°C and 1280°C. The high-fired pieces are ideal for being displayed outdoors as well as inside.
 
 ## Finding my work
 
@@ -32,7 +32,11 @@ I currently have work at the following outlets:
 
 ## Events
 
-I do not have any future events scheduled at the moment. Please see the <a href="cv.html">CV page</a> for details of events past.
+I will be exhibiting at the following events:
+
+* [Potfest in the Pens](https://potfest.co.uk/in-the-pens), Skirsgill Auction Mart, Penrith, 30th July–1st August 2021
+
+[comment]: <> (I do not have any future events scheduled at the moment. Please see the <a href="cv.html">CV page</a> for details of events past.)
 
 ## Contact Sue Crossfield
 
