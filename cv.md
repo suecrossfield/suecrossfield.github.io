@@ -147,9 +147,7 @@ I am a ceramic artist working in stoneware. My creativity is inspired by natural
 
 ## Current Outlets
 
-* [Bamburgh and Chatton Galleries, Northumberland](http://www.chatton-gallery.co.uk/)
-* [Brewery Arts, Cirencester](http://www.newbreweryarts.org.uk/)
-* [Fowey River Gallery](www.foweyrivergallery.co.uk/)
+* [St Johns Street Gallery (Ashbourne)](https://stjohngalleryandcafe.co.uk/)
 
 ## Professional Bodies
 
