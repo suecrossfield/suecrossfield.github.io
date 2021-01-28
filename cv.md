@@ -145,10 +145,6 @@ I am a ceramic artist working in stoneware. My creativity is inspired by natural
 {% include event.html start="Feb 2003" summary="Workshop-Ceramic Animals" location="Quarrybank Mill, Styal, Cheshire" %}
 </ul>
 
-## Current Outlets
-
-* [St Johns Street Gallery (Ashbourne)](https://stjohngalleryandcafe.co.uk/)
-
 ## Professional Bodies
 
 * Cheshire Artists Network
