@@ -8,6 +8,18 @@ title: Gallery
 Here are some photos representing of a selection of my work.
 
 <ul class="gallery">
+  {% include image.html path="20210129-2F50669C-29A3-4506-96FD-8D640AE31F97.jpeg" caption="" %}
+  {% include image.html path="20210129-48BB577D-B7E3-49A3-AE54-C769FE1FA8DF.jpeg" caption="" %}
+  {% include image.html path="20210129-170E03A9-3ED4-4E83-BD64-BAA3F199F751.jpeg" caption="" %}
+  {% include image.html path="20210129-457B9A37-84CA-4A0A-BF6C-7B8F9C8A481C.jpeg" caption="" %}
+  {% include image.html path="20210129-12440ADD-B9D4-4174-8B2E-EE55332A1766.jpeg" caption="" %}
+  {% include image.html path="20210129-047972CC-9D2F-4422-B5D3-1B9328B1F03D.jpeg" caption="" %}
+  {% include image.html path="20210129-A31E3558-1B9C-4C70-9DBE-AA0A738531B5.jpeg" caption="" %}
+  {% include image.html path="20210129-A132D03C-4512-457E-A9FA-EEFCC63AB425.jpeg" caption="" %}
+  {% include image.html path="20210129-B80D46D8-FFA1-417F-8710-503AD5351500.jpeg" caption="" %}
+  {% include image.html path="20210129-B448D57A-73E9-44B4-9511-55AA493C9FBB.jpeg" caption="" %}
+  {% include image.html path="20210129-E7A43E3C-0515-4F39-96AE-D85AC7364B04.jpeg" caption="" %}
+  {% include image.html path="20210129-F47A7282-D57E-46CE-AA99-137D3CA951D5.jpeg" caption="" %}
   {% include image.html path="trillo-july-2012-img_1148.jpg" caption="" %}
   {% include image.html path="trillo-july-2012-img_1160.jpg" caption="&nbsp;" %}
   {% include image.html path="trillo-july-2012-img_1176.jpg" caption="&nbsp;" %}
