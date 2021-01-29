@@ -145,10 +145,4 @@ I am a ceramic artist working in stoneware. My creativity is inspired by natural
 {% include event.html start="Feb 2003" summary="Workshop-Ceramic Animals" location="Quarrybank Mill, Styal, Cheshire" %}
 </ul>
 
-## Professional Bodies
-
-* Cheshire Artists Network
-* Cheshire Open Studios
-* [www.designbank.org.uk](http://www.designbank.org.uk/)
-
 </div>
