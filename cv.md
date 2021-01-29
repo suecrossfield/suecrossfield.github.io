@@ -40,6 +40,9 @@ I am a ceramic artist working in stoneware. My creativity is inspired by natural
 ## Recent Exhibitions and Events
 
 <ul class="events">
+
+{% include event.html start="Jul 2019" summary="Ceramic Wales" locationurl="http://www.ceramicwales.co.uk/" location="Wrexham Glyndwr University" %}
+{% include event.html start="Jul 2019" summary="Wirksworth Festival Art Trail" locationurl="https://www.wirksworthfestival.co.uk/" location="Wirksworth, Derbyshire, DE4 4DP" %}
 {% include event.html start="Jul 2013" summary="Potfest in the Park" locationurl="http://www.potfest.co.uk/" location="Hutton in the Forest, Penrith" %}
 {% include event.html start="Jun 2013" summary="Barnaby Festival" locationurl="http://www.barnabyfestival.org.uk/" location="Tony & Guy, Macclesfield" %}
 {% include event.html start="May 2013" summary="Cockington Court Ceramics Festival" locationurl="http://www.cockingtoncourt.org/whats-on/ceramics-festival" location="Cockington Crafts Centre, Cockington,Torquay, TQ2 6XA" %}
