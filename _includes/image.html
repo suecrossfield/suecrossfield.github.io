@@ -1,4 +1,4 @@
 {% assign file_name = include.path | split:"/" | last %}
 <li itemscope itemtype="http://schema.org/Sculpture"><span style="display:none;" itemprop="creator">Sue Crossfield</span>
-    <div><div><a href="{{ 'images/gallery/' | append:include.path | absolute_url }}"><img itemprop="image" src="{{ 'images/gallery/' | append: include.path | replace: file_name,'thumbnails/' | append:file_name | absolute_url }}" alt="" /><br /><span itemprop="name">{{include.caption}}</span></a></div></div>
+    <div><div><a href="{{ 'images/gallery/' | append:include.path | absolute_url }}"><img itemprop="image" src="{{ 'images/gallery/thumbnails/' | append: include.path | absolute_url }}" alt="" /><br /><span itemprop="name">{{include.caption}}</span></a></div></div>
 </li>
