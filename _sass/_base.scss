@@ -346,6 +346,10 @@ li.vevent div.summary {
     width: 27em;
 }
 
+li.vevent abbr.dtstart,li.vevent abbr.dtend {
+    text-decoration: none;
+}
+
 li.cv-row, ul.gallery li {
     list-style: none;
 }
