@@ -1,6 +1,6 @@
     <li class="vevent education">
         <div class="event-date">
-            {% if include.start %}<abbr class="dtstart" title="{{include.start}}">{{include.start|date: "%b %Y"}}</abbr>{% endif %}{% if include.end %}–<abbr class="dtend" title="{{include.end}}">{{include.end|date: "%b %Y"}}</abbr>{% endif %}
+            {% if include.start %}<abbr class="dtstart" title="{{include.start | date: '%Y-%m-%d'}}">{{include.start|date: "%b %Y"}}</abbr>{% endif %}{% if include.end %}–<abbr class="dtend" title="{{include.end | date: '%Y-%m-%d'}}">{{include.end|date: "%b %Y"}}</abbr>{% endif %}
         </div>
         <div class="summary"><a href="{{include.locationurl}}" target="_blank" class="url" rel="nofollow">{{include.summary}}</a></div>
         <div class="location">{{include.location}}</div>
