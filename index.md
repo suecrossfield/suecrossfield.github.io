@@ -34,6 +34,7 @@ I currently have work at the following outlets:
 
 I will be exhibiting at the following events:
 
+* [Bonsall Arts Trail](https://www.bonsallartstrail.org/), Online event, Easter Weekend 3rd-4th April 2021
 * [Potfest in the Pens](https://potfest.co.uk/in-the-pens), Skirsgill Auction Mart, Penrith, 30th July–1st August 2021
 
 [comment]: <> (I do not have any future events scheduled at the moment. Please see the <a href="cv.html">CV page</a> for details of events past.)
