@@ -1,22 +1,17 @@
 ---
 layout: default
 ---
-<div class="centre-panel">
-
-  <div class="banner">
-    <span style="display: none; height: 0;">Sue Crossfield Ceramics</span>
-    <a href="/">
-      <img src="{{ "images/banner.jpg" | absolute_url }}" alt="Sue Crossfield Ceramics"/>
-    </a>
-  </div>
-
-  <div class="content">
+<header class="banner">
+  <div class="site-name"><a href="/">Sue Crossfield Ceramics</a></div>
+  <nav>
     <ul class="menu">
       <li><a href="{{ "/" | absolute_url }}" rel="home">About (home)</a></li>
       <li><a href="{{ "/gallery.html" | absolute_url }}">Gallery</a></li>
       <li><a href="{{ "links.html" | absolute_url }}">Links</a></li>
       <li><a href="{{ "cv.html" | absolute_url }}">CV</a></li>
     </ul>
+  </nav>
+</header>
+<main>
   {{ content }}
-  </div>
-</div>
+</main>
