@@ -20,13 +20,6 @@ The scale of my work varies from robust sculptures in warm rustic colours and na
 
 My work is fired in an electric kiln to between 1200°C and 1280°C. The high-fired pieces are ideal for being displayed outdoors as well as inside.
 
-## Finding my work
-
-I currently have work at the following outlets:
-
-* [St Johns Street Gallery (Ashbourne)](https://stjohngalleryandcafe.co.uk/)
-  The St. John Street Gallery & Cafe is situated in the historic market town of Ashbourne in Derbyshire.
-
 ## Events
 
 I will be exhibiting at the following events:
@@ -35,6 +28,13 @@ I will be exhibiting at the following events:
 * [Potfest in the Pens](https://potfest.co.uk/in-the-pens), Skirsgill Auction Mart, Penrith, 30th July–1st August 2021
 
 [comment]: <> (I do not have any future events scheduled at the moment. Please see the <a href="cv.html">CV page</a> for details of events past.)
+
+## Finding my work
+
+I currently have work at the following outlets:
+
+* [St Johns Street Gallery (Ashbourne)](https://stjohngalleryandcafe.co.uk/)
+  The St. John Street Gallery & Cafe is situated in the historic market town of Ashbourne in Derbyshire.
 
 ## Contact Sue Crossfield
 
