@@ -24,7 +24,8 @@ My work is fired in an electric kiln to between 1200°C and 1280°C. The high-fi
 
 I will be exhibiting at the following events:
 
-* [Bonsall Arts Trail](https://www.bonsallartstrail.org/), Online event, Easter Weekend 3rd-4th April 2021
+* [Bonsall Arts Trail](https://www.bonsallartstrail.org/), Online event, Easter Weekend 3rd-4th April 2021  
+  My work for this event is shown on my [Bonsall Arts Trail]({{ "/bonsall-art-trail.html" | absolute_url }}) gallery.
 * [Potfest in the Pens](https://potfest.co.uk/in-the-pens), Skirsgill Auction Mart, Penrith, 30th July–1st August 2021
 
 [comment]: <> (I do not have any future events scheduled at the moment. Please see the <a href="cv.html">CV page</a> for details of events past.)
