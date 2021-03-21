@@ -140,11 +140,10 @@ p {
 
 main {
   padding: 0 10px 10px 10px;
-  position: relative;
 }
 
 header {
-  height: 50px;
+  min-height: 100px;
   .site-name {
     font-size: 30pt;
 
@@ -174,9 +173,9 @@ header {
     ul.menu {
       text-align: right;
       li {
-        display: inline;
+        display: inline-block;
         list-style-type: none;
-        margin-right: 1em;
+        margin: 0 1em .5em 0;
         a {
           color: lighten($accent-color,20%);
           border: 1px solid lighten($accent-color,10%);
@@ -213,10 +212,6 @@ a {
 
 a {
   color: #999999;
-}
-
-h1 {
-  margin-top: 2em;
 }
 
 div.clear {
