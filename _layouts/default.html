@@ -2,6 +2,6 @@
 <html lang="en">
   {% include head.html %}
   <body>
-    {{ content }}
+    {{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" href="http' }}
   </body>
 </html>
