@@ -1,0 +1,2 @@
+📅 My next event is [Bonsall Online Arts Trail](https://www.bonsallartstrail.org/), Easter Weekend, 3rd-4th April 2021.  
+My work for this event is shown on my [Bonsall Arts Trail gallery]({{ "/bonsall-art-trail.html" | relative_url }}).

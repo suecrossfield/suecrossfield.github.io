@@ -15,5 +15,8 @@ layout: default
   </nav>
 </header>
 <main>
+  {% capture announcement %}{% include announcement.md %}{% endcapture %}
+  
+  <div class="announcement">{{ announcement | markdownify }}</div>
   {{ content }}
 </main>
