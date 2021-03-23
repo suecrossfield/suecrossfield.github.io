@@ -19,9 +19,13 @@ I will be exhibiting at the following events:
 
 {% include events.md %}
 
+{% comment %}
+
 ## Finding my work
 
 I currently have work at the following outlets:
 
 * [St Johns Street Gallery (Ashbourne)](https://stjohngalleryandcafe.co.uk/)
   The St. John Street Gallery & Cafe is situated in the historic market town of Ashbourne in Derbyshire.
+  
+{% endcomment %}
