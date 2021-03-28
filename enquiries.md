@@ -59,7 +59,7 @@ I will use this mailing list to update you two or three times a year about event
 	<label for="mce-LNAME">Last Name </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
-<p><a href="https://us19.campaign-archive.com/home/?u=b24e7dcff7f9c6e84d26ccd94&id=2548498059" title="View previous campaigns">View previous campaigns.</a></p>
+<p><a href="https://us19.campaign-archive.com/home/?u=b24e7dcff7f9c6e84d26ccd94&id=2548498059" title="View previous mailings">View previous mailings</a></p>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
