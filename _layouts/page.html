@@ -14,8 +14,12 @@ layout: default
   </nav>
 </header>
 <main>
-  {% capture announcement %}{% include announcement.md %}{% endcapture %}
-  
-  <div class="announcement">{{ announcement | markdownify }}</div>
+  <span id="announcement"></span>
+  <script type="text/javascript">
+    if (nextEvent) {
+      document.getElementById('announcement').innerHTML = `<div class="announcement">📅 My next event is ${nextEvent.slug}</div>`;
+    }
+  </script>
+
   {{ content }}
 </main>

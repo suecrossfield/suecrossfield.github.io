@@ -1,0 +1,24 @@
+- name: Bonsall Online Arts Trail
+  link: https://www.bonsallartstrail.org/
+  social_link: http://www.facebook.com/bonsallartstrail
+  location: Online event
+  start_date: 2021-04-03
+  end_date: 2021-04-04
+- name: Derbyshire Open Arts in Windows
+  link: https://www.derbyshireopenarts.co.uk/
+  social_link: https://www.facebook.com/derbyshireOarts
+  location: Ashbourne
+  start_date: 2021-05-28
+  end_date: 2021-05-31
+- name: Potfest in the Pens
+  link: https://potfest.co.uk/in-the-pens
+  location: Skirsgill Auction Mart, Penrith
+  start_date: 2021-07-30
+  end_date: 2021-08-01
+  social_link: https://www.facebook.com/PotfestPark/
+- name: Ceramics in Southwell
+  link: http://www.ceramicsinsouthwell.org.uk/
+  location: Market Square, Southwell, Nottinghamshire, NG25 0FS
+  start_date: 2021-08-29
+  end_date: 2021-08-29
+  social_link: https://www.facebook.com/ceramicsinsouthwell

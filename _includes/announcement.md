@@ -1,1 +1,0 @@
-📅 My next event is [Derbyshire Open Arts in Windows](https://www.derbyshireopenarts.co.uk/), 28th–31st May 2021, [Facebook page](https://www.facebook.com/derbyshireOarts)
