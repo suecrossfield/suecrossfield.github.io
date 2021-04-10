@@ -39,7 +39,7 @@ function formattedDate(startDate, endDate, includeDay = true) {
     }
 }
 function eventSlug(event) {
-    return `<a href="${event.link}" target="_blank" class="url" rel="nofollow">${event.name}</a>, ${event.location}, ${event.date}, (<a href="${event.socialLink} target="_blank" class="url" rel="nofollow"">social media link</a>)`
+    return `<a href="${event.link}" target="_blank" class="url" rel="nofollow">${event.name}</a>, ${event.location}, ${event.date}, (<a href="${event.socialLink}" target="_blank" class="url" rel="nofollow">social media link</a>)`
 }
 let allEvents = []
 {% for event in site.data.events %}
