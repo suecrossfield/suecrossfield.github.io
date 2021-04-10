@@ -41,9 +41,9 @@ function formattedDate(startDate, endDate, includeDay = true) {
 function eventSlug(event) {
     return `<a href="${event.link}" target="_blank" class="url" rel="nofollow">${event.name}</a>, ${event.location}, ${event.date}, (<a href="${event.socialLink} target="_blank" class="url" rel="nofollow"">social media link</a>)`
 }
-let allEvents = [
+let allEvents = []
 {% for event in site.data.events %}
-{
+allEvents.push({
     name: "{{ event.name }}",
     link: "{{ event.link }}",
     socialLink: "{{ event.social_link }}",
@@ -52,8 +52,7 @@ let allEvents = [
     endDate: new Date(Date.parse("{{ event.end_date }}")),
     date: formattedDate(Date.parse("{{ event.start_date }}"),Date.parse("{{ event.end_date }}"), true),
     dateWithoutDay: formattedDate(Date.parse("{{ event.start_date }}"),Date.parse("{{ event.end_date }}"), false)
-},
+})
 {% endfor %}
-]
 var futureEvents = allEvents.filter(event => event.endDate > now).sort((a, b) => b.startDate - a.startDate).map(event => ({ ...event, slug: eventSlug(event)}))
 var nextEvent = futureEvents[0];
