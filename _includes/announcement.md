@@ -1,2 +1,1 @@
-📅 My next event is [Bonsall Online Arts Trail](https://www.bonsallartstrail.org/), Easter Weekend, 3rd-4th April 2021.  
-My work for this event is shown on my [Bonsall Arts Trail gallery]({{ "/bonsall-art-trail.html" | relative_url }}).
+📅 My next event is [Derbyshire Open Arts in Windows](https://www.derbyshireopenarts.co.uk/), 28th–31st May 2021, [Facebook page](https://www.facebook.com/derbyshireOarts)
