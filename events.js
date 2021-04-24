@@ -54,5 +54,8 @@ allEvents.push({
     dateWithoutDay: formattedDate(Date.parse("{{ event.start_date }}"),Date.parse("{{ event.end_date }}"), false)
 })
 {% endfor %}
-var futureEvents = allEvents.filter(event => event.endDate > now).sort((a, b) => b.startDate - a.startDate).map(event => ({ ...event, slug: eventSlug(event)}))
+var futureEvents = allEvents
+    .filter(event => event.endDate > now)
+    .sort((a, b) => a.startDate - b.startDate)
+    .map(event => ({ ...event, slug: eventSlug(event)}))
 var nextEvent = futureEvents[0];
