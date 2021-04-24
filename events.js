@@ -15,9 +15,9 @@ const nth = function(d) {
 }
 function formattedDate(startDate, endDate, includeDay = true) {
     let startParts = [{day: 'numeric'}, {month: 'short'}, {year: 'numeric'}].map(d => new Intl.DateTimeFormat('en', d).format(startDate))
-    startParts[0] = `${startParts[0]}${nth(startParts[0])} `
+    startParts[0] = `${startParts[0]}${nth(startParts[0])}`
     let endParts = [{day: 'numeric'}, {month: 'short'}, {year: 'numeric'}].map(d => new Intl.DateTimeFormat('en', d).format(endDate))
-    endParts[0] = `${endParts[0]}${nth(endParts[0])} `
+    endParts[0] = `${endParts[0]}${nth(endParts[0])}`
     if (includeDay === false) {
         startParts[0] = ''
         endParts[0] = ''
@@ -25,17 +25,17 @@ function formattedDate(startDate, endDate, includeDay = true) {
     if (startParts[2] === endParts[2]){
         if (startParts[1] === endParts[1]) {
             if (startParts[0] === endParts[0]) {
-                return `${startParts[0]}${startParts[1]} ${startParts[2]}`
+                return `${startParts[0]} ${startParts[1]} ${startParts[2]}`
             }
             else {
-                return `${startParts[0]}–${endParts[0]}${endParts[1]} ${endParts[2]}`
+                return `${startParts[0]}–${endParts[0]} ${endParts[1]} ${endParts[2]}`
             }
         } else {
-            return `${startParts[0]}${startParts[1]}–${endParts[0]}${endParts[1]} ${endParts[2]}`
+            return `${startParts[0]} ${startParts[1]}–${endParts[0]} ${endParts[1]} ${endParts[2]}`
         }
     }
     else {
-        return `${startParts[0]}${startParts[1]} ${startParts[2]}–${endParts[0]}${endParts[1]} ${endParts[2]}`
+        return `${startParts[0]} ${startParts[1]} ${startParts[2]}–${endParts[0]} ${endParts[1]} ${endParts[2]}`
     }
 }
 function eventSlug(event) {
