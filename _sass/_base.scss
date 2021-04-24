@@ -138,8 +138,15 @@ p {
   margin-top: 0.5em;
 }
 
-main {
+main, footer {
   padding: 0 10px 10px 10px;
+}
+
+footer {
+  text-align: center;
+  img {
+    margin-left: 1.5em;
+  }
 }
 
 header {
