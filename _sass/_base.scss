@@ -179,10 +179,14 @@ header {
   nav {
     ul.menu {
       text-align: right;
+      margin-left: 0;
       li {
         display: inline-block;
         list-style-type: none;
         margin: 0 1em .5em 0;
+        @include media-query(400px) {
+          margin: 0 .2em .5em 0;
+        }
         a {
           color: lighten($accent-color,20%);
           border: 1px solid lighten($accent-color,10%);
@@ -190,6 +194,14 @@ header {
           text-decoration: none;
           font-size: 1.2rem;
           padding: .2em .5em .2em .5em;
+
+
+          @include media-query(500px) {
+            font-size: 1rem;
+          }
+          @include media-query(350px) {
+            font-size: .9rem;
+          }
         }
         a:link:hover, a:visited:hover {
           text-decoration: none;
@@ -291,4 +303,8 @@ ul.gallery {
   a {
     color: white;
   }
+}
+
+img.cut-out {
+  max-width: 50%;
 }

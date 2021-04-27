@@ -5,7 +5,7 @@ title: About
 
 # About
 
-<img src="images/two-forms.webp" style="float: right; margin: 0 0 10px 10px;" alt="Photo of two blue pebble forms" title="Photo of two blue pebble forms" width="375">
+<img src="images/two-forms.webp" style="float: right; margin: 0 0 10px 10px;" alt="Photo of two blue pebble forms" title="Photo of two blue pebble forms" width="375" class="cut-out">
 
 My work reflects a fascination with natural and marine forms, and female figures and heads. I combine flowing lines and sweeping curves in the slab construction of my barium glazed pieces.
 {: .caption}
