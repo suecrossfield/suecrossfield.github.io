@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
   margin-top: $spacing-unit / 2;
   color: $heading-color;
-  clear: both;
+  clear: left;
 }
 
 
@@ -144,9 +144,6 @@ main, footer {
 
 footer {
   text-align: center;
-  img {
-    margin-left: 1.5em;
-  }
 }
 
 header {
@@ -298,4 +295,13 @@ ul.gallery {
 
 img.cut-out {
   max-width: 50%;
+}
+
+#social-top {
+  float: right;
+  width: 4em;
+  text-align: right;
+}
+footer a.social {
+  margin-left: 1.5em;
 }
