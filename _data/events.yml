@@ -1,3 +1,34 @@
+- name: Potfest South East, Glynde Place                
+  start_date: 2022-04-22
+  end_date: 2022-04-24
+  location: Glynde, near Lewes, East Sussex, BN8 6SX
+- name: Ceramics in Charnwood
+  start_date: 2022-05-08
+  location: Market Place, Loughborough LE11 3EA
+- name: Derbyshire Open Arts
+  start_date: 2022-05-28
+  end_date: 2022-05-29
+  location: 5 Peak View Drive, Ashbourne DE6 1BR
+  link: https://www.derbyshireopenarts.co.uk/
+- name: Ceramic Wales, Bodrhyddan Hall
+  start_date: 2022-06-11
+  end_date: 2022-06-12
+  location: Dyserth Rd, Rhuddlan, Rhyl, LL18 5SB
+  link: https://ceramicwales.com
+- name: Celebrating Ceramics, Waterperry House
+  start_date: 2022-07-15
+  end_date: 2022-07-17
+  location: Waterperry Gardens, near Wheatley, Oxford OX33 1LA
+  link: https://www.celebratingceramics.co.uk/
+- name: Art in Clay, Windsor
+  start_date: 2022-08-19
+  end_date: 2022-08-21
+  location: Royal Windsor Racecourse  
+  link: https://www.artinclay.co.uk/exhibitors-2021/
+- name: Ceramics in Southwell
+  start_date: 2022-08-28
+  location: Market Square, Southwell, Nottinghamshire, NG25 0FS
+  link: http://www.ceramicsinsouthwell.org.uk/
 - name: Ashbourne Festival, Take Three Artists
   link: https://ashbournefestival.org/events/ceramic-exhibition/
   social_link: https://www.facebook.com/AshbourneFestival/
