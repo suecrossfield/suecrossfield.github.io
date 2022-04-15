@@ -2,7 +2,7 @@ Mum’s Gallery
 
 1. Adjust images
 1. Index images using photo info
-1. Add photo info to catalogue
+1. Add photo info to catalogue (remember you can fill/populate down by dragging the green circle)
 1. Export photos to iCloud Drive shared folder
 1. Run `./process.sh` in `~/Library/Mobile Documents/com~apple~CloudDocs/Photos for Mark`
     ```shell
