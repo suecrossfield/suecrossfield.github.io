@@ -18,3 +18,4 @@ Mum’s Gallery
     mv thumbnails/*.webp ~/Documents/workspace/suecrossfield.co.uk/images/gallery/thumbnails/
     cat gallery.yml
     ```
+1. Add YML to `photo_highlights.yml` and populate names
