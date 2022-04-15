@@ -1,3 +1,54 @@
+- filename: SCC091 SCC092.webp
+  name: SCC091, SCC092, Red and blue spotty saddled horses
+
+- filename: SCC091 facing left.webp
+  name: Blue spotty saddled horse with bird
+  id: SCC091
+
+- filename: SCC091 facing right.webp
+  name: Blue spotty saddled horse with bird
+  id: SCC091
+
+- filename: SCC092.webp
+  name: Red spotty saddled horse
+  id: SCC092
+
+- filename: SCC093, SCC094, SCC095, SCC096.webp
+  name: SCC093, SCC094, SCC095, SCC096, Blue spotted seahorses
+  
+- filename: SCC093.webp
+  name: Blue spotted seahorse with bird and fish
+  id: SCC093
+  
+- filename: SCC094, SCC095.webp
+  name: SCC094, SCC095, Pair of blue spotted seahorses
+  
+- filename: SCC097, SCC095.webp
+  name: SCC097, SCC095, Pair of green and blue spotted seahorses 
+  
+- filename: SCC097, SCC098, SCC099.webp
+  name: SCC097, SCC098, SCC099, Three blue spotted seahorses
+  
+- filename: SCC101, SCC102.webp
+  name: SCC101, SCC102, Green and blue spotty Fishes
+  
+- filename: SCC103.webp
+  name: Blue spotty fish with blue fins
+  id: SCC103
+  
+- filename: SCC104, SCC105, SCC103.webp
+  name: SCC104, SCC105, SCC103, Three white fish with spots
+  
+- filename: SCC106, SCC107, SCC108.webp
+  name: SCC106, SCC107, SCC108, Three textured pale blue seahorses
+  
+- filename: SCC108, SCC106.webp
+  name: SCC108, SCC106, Two textured pale blue seahorses
+  
+- filename: SCC109.webp
+  name: Blue and green Spiny fish
+  id: SCC109
+  
 - name: Pair of angular valentine seahorses
   filename: SCC073.webp
   id: SCC073
